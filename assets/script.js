@@ -33,16 +33,8 @@ $('.time-block').each(function() {
 
 
 
-
-// $('#eleven').addClass('future');
-
-
-
-
 //Save the event in local storage when the save button is clicked in that timeblock.
 
 
-
-//Persist events between refreshes of a page
 
 
